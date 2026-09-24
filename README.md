@@ -36,8 +36,7 @@
       <img src="assets/avatar.png" width="240" alt="Avatar da Jullia" />
     </td>
     <td width="65%" align="center">
-      Oi! Eu sou a <b>Jullia</b>, estudante de Ciência da Computação no IBMR, no Rio de Janeiro. Meu foco é <b>Inteligência Artificial</b> e <b>dados</b>: gosto de organizar informação, encontrar padrões e transformar tudo isso em algo útil.<br/><br/>
-      Já atuei em um estágio financeiro cuidando de bases de dados em Excel e, hoje, aplico o que aprendo em projetos próprios, como o <b>StudyFlow</b>, um app de produtividade, e o <b>Movie Tracker</b>, em Python, além de trabalhos com <b>Arduino e sensores</b>. Sigo estudando <b>Python, SQL, Java e C</b> e construindo, um projeto de cada vez.
+      Oii! Moro no Rio de Janeiro e estou cursando Ciência da Computação. Sou bastante curiosa e adoro aprender coisas novas. No momento, estou focando meus estudos em Banco de Dados, com muita prática e exercícios para fixar bem o conteúdo. Ainda sou uma jovem padawan na tecnologia HAHA, mas sigo firme dando um commit de cada vez 🌌
     </td>
   </tr>
 </table>
@@ -47,9 +46,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      Estudante de Ciência da Computação no IBMR.<br/>
-      Fora do código, gosto de escrever histórias, de cinema indie e de montar playlists de dream pop e shoegaze.<br/><br/>
-      <i>"Dados contam histórias, eu só ajudo a ouvir."</i><br/><br/>
+      Fora do código, gosto muito de ler, de cinema e de música.<br/><br/>
       <b>🌙 Foco: IA & Engenharia de Dados</b>
     </td>
     <td align="center">
