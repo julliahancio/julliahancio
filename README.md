@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e0b3a,50:4c1d95,100:7c3aed&height=220&section=header&text=Welcome%20to%20Jullia%27s%20Github&fontSize=36&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=%3C%2F%3E&descSize=22&descAlignY=58" width="100%" alt="Banner" />
+<img src="assets/banner.png" width="100%" alt="Welcome to Jullia's Github" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jullia-hancio-6397a4353/"><img src="https://img.shields.io/badge/LINKEDIN-2E1065?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:julliahancioap@gmail.com"><img src="https://img.shields.io/badge/GMAIL-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h2 align="center">🔮 <i>Tecnologias</i></h2>
+<h2 align="center"><i>Tecnologias</i></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-2E1065?style=for-the-badge&logo=python&logoColor=white" />
@@ -22,13 +22,13 @@
   <img src="https://img.shields.io/badge/POWER%20BI-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white" />
 </p>
 
-<h2 align="center">🔮 <i>Estatísticas</i></h2>
+<h2 align="center"><i>Estatísticas</i></h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=julliahancio&bg_color=1a0b2e&color=c084fc&line=8b5cf6&point=e9d5ff&area=true&area_color=7c3aed&hide_border=true&title_color=e9d5ff&custom_title=Jullia%27s%20Contribution%20Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/julliahancio/julliahancio/output/snake-roxo.svg" width="100%" alt="Gráfico de contribuições da Jullia" />
 </p>
 
-<h2 align="center">🔮 <i>Sobre mim</i></h2>
+<h2 align="center"><i>Sobre mim</i></h2>
 
 <table align="center">
   <tr>
@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-<h2 align="center">🔮 <i>Hobbies & Objetivos</i></h2>
+<h2 align="center"><i>Hobbies & Objetivos</i></h2>
 
 <table align="center">
   <tr>
@@ -50,7 +50,7 @@
       Estudante de Ciência da Computação no IBMR.<br/>
       Fora do código, gosto de escrever histórias, de cinema indie e de montar playlists de dream pop e shoegaze.<br/><br/>
       <i>"Dados contam histórias, eu só ajudo a ouvir."</i><br/><br/>
-      <b>🌙 Foco: IA & Engenharia de Dados 🔮</b>
+      <b>🌙 Foco: IA & Engenharia de Dados</b>
     </td>
     <td align="center">
       <img src="assets/gato.png" width="160" alt="Gatinho preto" />
